@@ -13,7 +13,11 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
+<<<<<<< Updated upstream
 ### Header 3
+=======
+### Header 3 
+>>>>>>> Stashed changes
 
 - Bulleted
 - List
