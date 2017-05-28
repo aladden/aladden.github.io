@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({tex2jax: {inlineMath:[['$','$']]}});
-</script>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ## 从引力到Higgs理论，我们仍需要新的物理
 > 年度物理会议Rencontres de Moriond曾宣布过粒子对撞实验里令人激动的结果，今年又带来了许多新的理论和证据。
