@@ -2,27 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or \~\~strikethrough\~\~.
 
-[Link to another page](another-page).
-
+[Link to another page][1].
+[From gravity to the Higss we’re still waiting for new physics]()(from-gravity-to-the-Higss-we’re-still-waiting-for-new-physics).
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)My first blog
+# [][3]My first blog
 
 Rough winds do shake the darling buds of May, but your tenderness will always soften my heart. Thank you, my dearest Fenglin!
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## [](#header-2)Header 2
+## [][4]Header 2
 
 > This is a blockquote following a header.
->
+> 
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [][5]Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -39,19 +39,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+#### [][6]Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### [](#header-5)Header 5
+##### [][7]Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
+###### [][8]Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -62,7 +62,7 @@ end
 
 ### There's a horizontal rule below this.
 
-* * *
+---- 
 
 ### Here is an unordered list:
 
@@ -83,8 +83,8 @@ end
 - level 1 item
   - level 2 item
   - level 2 item
-    - level 3 item
-    - level 3 item
+	- level 3 item
+	- level 3 item
 - level 1 item
   - level 2 item
   - level 2 item
@@ -96,11 +96,11 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![][image-1]
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![][image-2]
 
 
 ### Definition lists can be used with HTML syntax.
@@ -123,3 +123,14 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[1]:	another-page
+[3]:	#header-1
+[4]:	#header-2
+[5]:	#header-3
+[6]:	#header-4
+[7]:	#header-5
+[8]:	#header-6
+
+[image-1]:	https://assets-cdn.github.com/images/icons/emoji/octocat.png
+[image-2]:	https://guides.github.com/activities/hello-world/branching.png
