@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or \~\~strikethrough\~\~.
 
 [Link to another page][1].
 
-[From gravity to the Higss we’re still waiting for new physics][from-gravity-to-the-Higss-we’re-still-waiting-for-new-physics].
+[From gravity to the Higss we’re still waiting for new physics][9].
 
 There should be whitespace between paragraphs.
 
@@ -133,6 +133,7 @@ The final element.
 [6]:	#header-4
 [7]:	#header-5
 [8]:	#header-6
+[9]:    from-gravity-to-the-Higss-we’re-still-waiting-for-new-physics
 
 [image-1]:	https://assets-cdn.github.com/images/icons/emoji/octocat.png
 [image-2]:	https://guides.github.com/activities/hello-world/branching.png
