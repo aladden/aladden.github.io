@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or \~\~strikethrough\~\~.
 
 [Link to another page][1].
 
-[From gravity to the Higss we’re still waiting for new physics][9].
+[From gravity to the Higgs we’re still waiting for new physics][9]
 
 There should be whitespace between paragraphs.
 
