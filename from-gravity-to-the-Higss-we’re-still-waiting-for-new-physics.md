@@ -3,7 +3,7 @@ layout: default
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-## 从引力到Higgs理论，我们仍在等候新的物理
+## 从引力理论到Higgs理论，我们仍在等候新的物理
 
 >译自《卫报》，[原文][2]
 
