@@ -4,6 +4,8 @@ layout: default
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ## 从引力到Higgs理论，我们仍在等候新的物理
+
+>[原文][2]
 > 年度物理会议Rencontres de Moriond曾宣布过粒子对撞实验里令人激动的结果，今年又带来了许多新的理论和证据。
 
 我又来到了在意大利举办的Rencontres de Moriond会议。你们中的某些人也许还记得在去年的这个会议上，2015年LHC（大型强子对撞机）测得的一个数据信号被更新了，暗示着一个有新的重达750倍质子质量的新粒子且会衰减成两个光子。这一信号并未出现在去年最新的数据中，因此新粒子被否定了——我们估计那只是个几率涨落。
@@ -27,3 +29,4 @@ Matthew McCullough发表过关于他理论的演讲，并给出一个能在LHC�
 [back][1]
 
 [1]:	./
+[2]:  https://www.theguardian.com/science/life-and-physics/2017/mar/24/from-gravity-to-the-higgs-were-still-waiting-for-new-physics
