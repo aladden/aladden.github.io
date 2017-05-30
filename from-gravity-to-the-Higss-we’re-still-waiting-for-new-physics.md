@@ -11,7 +11,7 @@ layout: default
 
 ![][image-1]
 
->发条理论是一个新的理论想法，引起了很多注意，它由CERN的Matthew McCullough和Gian Giudice提出。Matthew McCullough与Gian Giudice供图
+>发条理论是一个引人注目的新理论，它由CERN的Matthew McCullough和Gian Giudice提出。Matthew McCullough与Gian Giudice供图
 
 我又来到了意大利的Rencontres de Moriond会议现场。你们中的某些人也许还记得，去年的这个会议[更新][3]了2015年LHC（大型强子对撞机）测得的一个数据信号，这暗示着存在一个重达750倍质子质量的新粒子且它会衰变成两个光子。这一信号并未出现在去年最新的数据中，因此新粒子的存在被否定了——我们估计那只是个几率涨落。
 
