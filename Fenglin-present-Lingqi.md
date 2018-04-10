@@ -4,7 +4,7 @@ layout: default
 
 ## Happy Birthday to Lingqi!
 
-:birthday::tada::birthday::tada::birthday:
+:smile::birthday::tada::birthday::tada::birthday::smile:
 
 ![][image-1]
 
