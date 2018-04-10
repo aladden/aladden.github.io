@@ -7,6 +7,8 @@ Text can be **bold**, _italic_, or \~\~strikethrough\~\~.
 [Link to another page][1].
 
 [From gravity to the Higgs we’re still waiting for new physics][9]
+[Does China play fair][10]
+[Fenglin's present to dearest Lingqi][11]
 
 There should be whitespace between paragraphs.
 
@@ -134,6 +136,8 @@ The final element.
 [7]:	#header-5
 [8]:	#header-6
 [9]:    from-gravity-to-the-Higss-we’re-still-waiting-for-new-physics
+[10]:	does-china-play-fair
+[11]:	fenglin-present-lingqi
 
 [image-1]:	https://assets-cdn.github.com/images/icons/emoji/octocat.png
 [image-2]:	https://guides.github.com/activities/hello-world/branching.png
