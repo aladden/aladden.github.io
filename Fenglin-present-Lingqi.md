@@ -2,9 +2,9 @@
 layout: default
 ---
 
-##Happy Birthday to Lingqi!
+## Happy Birthday to Lingqi!
 
-:birthday:
+:birthday::tada::birthday::tada::birthday:
 
 ![][image-1]
 
