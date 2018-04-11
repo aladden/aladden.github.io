@@ -117,17 +117,12 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
-[1]:	another-page
 [3]:	#header-1
 [4]:	#header-2
 [5]:	#header-3
 [6]:	#header-4
 [7]:	#header-5
 [8]:	#header-6
-[9]:    from-gravity-to-the-Higss-we’re-still-waiting-for-new-physics
-[10]:	does-China-play-fair
-[11]:	Fenglin-present-Lingqi
 
 [image-1]:	https://assets-cdn.github.com/images/icons/emoji/octocat.png
 [image-2]:	https://guides.github.com/activities/hello-world/branching.png
