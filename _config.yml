@@ -5,3 +5,4 @@ google_analytics:
 theme: jekyll-theme-minimal
 gems:
   - jemoji
+excerpt_separator: "<!-- more -->"
