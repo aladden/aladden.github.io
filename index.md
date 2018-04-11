@@ -8,7 +8,7 @@ Rough winds do shake the darling buds of May, but your tenderness will always so
 
 [link to another page][1]
 
-[<font color=Black>Hello GFM</font>][2]
+<font color=Black>[Hello GFM][2]</font>
 ---
 Introductions of markdown
 Text can be bold, italic, or ~~strikethrough~~.
