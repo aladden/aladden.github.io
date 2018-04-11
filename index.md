@@ -6,15 +6,16 @@ layout: default
 
 Rough winds do shake the darling buds of May, but your tenderness will always soften my heart. Thank you, my dearest Fenglin!
 
-[Introduction of Markdown][1]
+# [][3][Introduction of Markdown][1]
 
 [Link to another page][2].
+====
 
-[From gravity to the Higgs we’re still waiting for new physics][3]
+# [][3][From gravity to the Higgs we’re still waiting for new physics][3]
 
-[Does China play fair?][4]
+# [][3][Does China play fair?][4]
 
-[Fenglin's present to dearest Lingqi][5]
+# [][3][Fenglin's present to dearest Lingqi][5]
 
 [1]:	intro-of-markdown
 [2]:	another-page
