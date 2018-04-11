@@ -27,6 +27,7 @@ Annual physics jamboree Rencontres de Moriond has a history of revealing excitin
 
 [Does China play fair?][4]
 ---
+<!-- more -->
 
 [Fenglin's present to dearest Lingqi][5]
 ---
