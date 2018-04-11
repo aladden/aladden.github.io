@@ -8,7 +8,7 @@ Rough winds do shake the darling buds of May, but your tenderness will always so
 
 [link to another page][1]
 
-<font color=Black>[Hello GFM]</font>[2]
+[<font color=Black>Hello GFM</font>][2]
 ---
 Introductions of markdown
 Text can be bold, italic, or ~~strikethrough~~.
@@ -19,13 +19,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 [More][2]
 
-[From gravity to the Higgs we’re still waiting for new physics][3]
+[<font color=Black>From gravity to the Higgs we’re still waiting for new physics</font>][3]
 ---
 Annual physics jamboree Rencontres de Moriond has a history of revealing exciting results from colliders, and this year new theories and evidence abound
 
 [More][3]
 
-[Does China play fair?][4]
+[<font color=Black>Does China play fair?</font>][4]
 ---
 来自中国的竞争只会愈演愈烈，冷静的头脑，睿智的决策显得尤为必要。
 
@@ -33,7 +33,7 @@ Annual physics jamboree Rencontres de Moriond has a history of revealing excitin
 
 [More][4]
 
-[Fenglin's present to dearest Lingqi][5]
+[<font color=Black>Fenglin's present to dearest Lingqi</font>][5]
 ---
 Happy Birthday to Lingqi!
 :smile::birthday::tada::birthday::tada::birthday::smile:
