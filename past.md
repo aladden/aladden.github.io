@@ -37,7 +37,7 @@ layout: default
  
  ![][image-8]
  
- 第三天白天就随意逛了逛，庐山实在太大。我们爬了下三叠泉，拍下了这张嘎嘎赏泉图。然后下午就赶回九江再转南昌，后一天早上后匆匆各回各家。
+ 第三天白天就随意逛了逛，庐山实在太大。我们爬了三叠泉，拍下了这张嘎嘎赏泉图。当时从山上下去满满当当的人，下山的时候脚都微微颤抖。然后下午就赶回九江再转南昌，后一天早上后匆匆各回各家。
  
  ![][image-9]
  暑假我们在张家界度过，我们先去土家风情园逛了一上午，奶奶和简爷爷他们下午才到。那晚我们大概六个人挤在民宿里，我和大嘎挤一张床，然后我们就，嘿嘿嘿。
@@ -103,4 +103,4 @@ layout: default
  [image-17]:https://aladden.github.io/pics/IMG_1555.JPG
  [image-18]:https://aladden.github.io/pics/IMG_1562.JPG
  [image-19]:https://aladden.github.io/pics/IMG_1639.JPG
- [image-20]:https://aladden.github.io/pics/IMG_1562.JPG
+ [image-20]:https://aladden.github.io/pics/IMG_1682.JPG
