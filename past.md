@@ -69,4 +69,4 @@ layout: default
  1562
  配上大嘎可爱的花卷配色睡衣一张，招财猫的照片就留着自己欣赏好了。那是我为数不多在外面玩，起床还早于大嘎的时刻了，不然还怎么偷拍呢。
  
- [image-1]:https://aladden.github.io/pics/IMG-0037.JPG
+ [image-1]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0037.JPG
