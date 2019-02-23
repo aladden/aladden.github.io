@@ -11,62 +11,82 @@ layout: default
  ![][image-1]
  二嘎夸了大嘎在去年给我写的信里的字好看，大嘎埋怨都没看过我的字，于是我创作了这幅，只能说确实不咋样，再美颜也没用，毕竟是一路被语文老师嫌弃过来的。
  
- 0098 0114
+ ![][image-2]
+ ![][image-3]
  当时给大嘎买了一点小礼物，空白的本子和书签。空本子似乎在那届学生初二结束时送给他们了，书签应该都还留着不少。下面那首鹧鸪天是我强烈要求加上的，当时
  大嘎说静心写字的感觉真的好。
  
- 0359
+ ![][image-4]
  那年寒假我们陪奶奶去了上海迪斯尼，看了花街，玩了很多项目，吃了一风堂拉面，拍了不少照片。第二天上午我们还去了传说中的上海外文书店，玩了看英文认国名的
  游戏，买了亨利五世和恐怖谷。
  
- 0480
+ ![][image-5]
  年后我们一起去了杭州，住了南宋御街，记得附近的西北面馆手艺很好，大嘎后来甚至带橘子旧地重游过。我们还去了浙江的博物馆，美术馆等等。那几天杭州都是阴雨绵绵，我们在青旅看了摔跤吧爸爸，这部电影当时国内还没有上映。
  
- 0194
+ ![][image-6]
  那段时间沉迷豆瓣时间，我建了个豆瓣小号，买了白先勇的红楼和杨照的史记，也跟大嘎一起在庐山听过。
  
- 0666
+ ![][image-7]
  五一节我们是在庐山度过的，我们先去南昌住了一晚，然后第二天再跑去九江，火车上还遇到了热心的大妈。等到下午才辗转坐上了去庐山的巴士。等到达在牯岭镇订的
  宾馆天都快黑了，休息一会儿后，我们在吃饭前拍下了那张照片。开心的是晚上第一次牵到了嘎嘎的手，那是我们在熟悉过程中为数不多的默契美好时刻。
  
- 0689
+ ![][image-8]
  第三天白天就随意逛了逛，庐山实在太大。我们爬了下三叠泉，拍下了这张嘎嘎赏泉图。然后下午就赶回九江再转南昌，后一天早上后匆匆各回各家。
  
- 0329
+ ![][image-9]
  暑假我们在张家界度过，我们先去土家风情园逛了一上午，奶奶和简爷爷他们下午才到。那晚我们大概六个人挤在民宿里，我和大嘎挤一张床，然后我们就，嘿嘿嘿。
  
- 0759
+ ![][image-10]
  第二天出发去张家界国家森林公园爬山了，看到了不少嚣张的猴子，张家界的风景的确很特别。当天晚上我们就睡在山上的民宿，还亲临了奶奶k歌现场。
  
- 0361
+ ![][image-11]
  我们俩都早起散了个步。但随后由于我没做好观景规划又被大嘎狠狠地鄙视了，直到追上奶奶他们，一起在KFC吃了小食，大嘎的心情才稍微好了点。
  
- 0398
- 0619
+ ![][image-12]
+ ![][image-13]
  不得不说，天门山之行还是很惊艳的，就是天公实在不作美，中午突然下起了暴雨，因此我和简爷爷直接湿透。不过我们最终还是走过了玻璃栈道，雨后的风景真的不错！
  之后我们去南京转车各自回家，在南京看了17年的火爆电影战狼2，这里必须要批评一下，南京的出租车司机毫无服务精神。
  
- 0652
+ ![][image-14]
  国庆节嘎嘎要去给美女同事做伴娘，二嘎因此也去混了个亲友席。第二天我们逛了扬州东关街、个园，二嘎吃到了美味的土豆旋风，大嘎也吃到了美味的肉串。
  这张是青旅里楼道墙面上的一幅作品，上面的字嘎嘎已经仔细认读过啦，不知道现在还记不记得呢？
  
- 0938
+ ![][image-15]
  这里就放一张我老家屋后的池塘照好了，据说腿哥家的池塘比这大多了，美女同事想吃啥水产品都有。
  
- 1553
+ ![][image-16]
  这次寒假我第一次去了嘎嘎家见了嘎嘎父母，从嘉兴过杭州湾拍的海景。我们在浒山和大侄子吃了晚饭，第二天还去了大嘎的学校办公室逛了一圈。
  
- 1555
+ ![][image-17]
  之后又去大嘎舅公家提前过了年，吃过饭后和一群小朋友还有勰勰阿姨他们各种后山竹林探险，还买了摔炮。感叹一句大嘎老爸的跟车技术还是很nice的。
  
- 1562
+ ![][image-18]
  在我见过大嘎父母后，我带着大嘎和大嘎老妈去了趟我的老家见过了我父母。我们去中洋河豚庄园看过了河豚鱼，还有各种被列入珍惜保护动物的鱼类。
  晚上还吃到了锦龙的厨师做的河豚。
  
- 1639
+ ![][image-19]
  春节过后我们又相约去了枫泾古镇，去丁聪故居瞻仰了一下，惊叹他家的藏书之多。下午离开枫泾前我们还吃到了美味的缙云烧饼。
  
- 1562
+ ![][image-20]
  配上大嘎可爱的花卷配色睡衣一张，招财猫的照片就留着自己欣赏好了。那是我为数不多在外面玩，起床还早于大嘎的时刻了，不然还怎么偷拍呢。
  
  [image-1]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0037.JPG
+ [image-2]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0098.JPG
+ [image-3]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0114.JPG
+ [image-4]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0359.JPG
+ [image-5]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0480.JPG
+ [image-6]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0194.JPG
+ [image-7]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0666.JPG
+ [image-8]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0689.JPG
+ [image-9]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0329.JPG
+ [image-10]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0759.JPG
+ [image-11]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0361.JPG
+ [image-12]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0398.JPG
+ [image-13]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0619.JPG
+ [image-14]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0652.JPG
+ [image-15]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_0938.JPG
+ [image-16]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_1553.JPG
+ [image-17]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_1555.JPG
+ [image-18]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_1562.JPG
+ [image-19]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_1639.JPG
+ [image-20]:https://github.com/aladden/aladden.github.io/blob/master/pics/IMG_1562.JPG
