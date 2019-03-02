@@ -86,8 +86,8 @@ eternal summer，我的那枚就是darling buds。奶奶还嫌弃这家微商，
 
 
  [image-1]:https://aladden.github.io/pics/IMG_0968.JPG
- [image-2]:https://aladden.github.io/pics/IMG_1968.JPG
- [image-3]:https://aladden.github.io/pics/IMG_1987.JPG
+ [image-2]:https://aladden.github.io/pics/IMG_1987.JPG
+ [image-3]:https://aladden.github.io/pics/IMG_1990.JPG
  [image-4]:https://aladden.github.io/pics/IMG_2168.JPG
  [image-5]:https://aladden.github.io/pics/IMG_2478.JPG
  [image-6]:https://aladden.github.io/pics/IMG_2373.JPG
