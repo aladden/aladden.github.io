@@ -11,6 +11,7 @@ layout: default
 小朋友了，谁写的好就给盖一个，嘎老师认证的好字。之后还和大嘎一起挑了裙子，但是二嘎眼光还是太差，最后没有挑到满意的衣服，在挑衣服方面学了大嘎的一点
 皮毛而已。
 
+![][image-17]
 那段时间大嘎沉迷看北京女子图鉴，二嘎也陪着看了不少，女主简直斩男狂魔，换男朋友如同换衣服一样。不知道在大都市过那种生活，是不是非得这样。
 
 ![][image-2]
@@ -85,3 +86,4 @@ eternal summer，我的那枚就是darling buds。奶奶还嫌弃这家微商，
  [image-14]:https://aladden.github.io/pics/IMG_3059.JPG
  [image-15]:https://aladden.github.io/pics/IMG_3827.JPG
  [image-16]:https://aladden.github.io/pics/IMG_4286.JPG
+ [image-17]:https://aladden.github.io/pics/IMG_2202.JPG
